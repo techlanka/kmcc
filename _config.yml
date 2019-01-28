@@ -3,7 +3,7 @@
 
 title: K/ Madina Central College (National School)
 description: "Be Learnen, Exploren & Persuen" #
-baseurl: "/kmcc/" #
+baseurl: "/kmcc" #
 url: "https://techlanka.github.io/kmcc/" # the base hostname & protocol for your site, e.g. http://example.com
 
 
