@@ -4,7 +4,7 @@
 title: K/ Madina Central College (National School)
 description: "School situated in Kandy district, Madawala, Sri Lanka." #
 baseurl: "/kmcc" #
-url: "https://techlanka.github.io/kmcc/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://techlanka.github.io/kmcc" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 #-------------------------------
