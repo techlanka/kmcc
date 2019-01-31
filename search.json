@@ -1,14 +1,67 @@
----
-layout: null
----
 [
-  {% for post in site.posts %}
+  
     {
-      "title"    : "{{ post.title | escape }}",
-      "category" : "{{ post.category }}",
-      "tags"     : "{{ post.tags | array_to_sentence_string }}",
-      "url"      : "{{ site.baseurl }}{{ post.url }}",
-      "date"     : "{{ post.date }}"
-    } {% unless forloop.last %},{% endunless %}
-  {% endfor %}
+      "title"    : "The most popular mistakes",
+      "category" : "",
+      "tags"     : "Lifehacks",
+      "url"      : "//the-most-popular-mistakes/",
+      "date"     : "2018-08-23 13:05:55 +0000"
+    } ,
+  
+    {
+      "title"    : "Night city lights",
+      "category" : "",
+      "tags"     : "Cities",
+      "url"      : "//night-city-lights/",
+      "date"     : "2018-08-23 13:04:55 +0000"
+    } ,
+  
+    {
+      "title"    : "Premiere on Broadway",
+      "category" : "",
+      "tags"     : "Rest",
+      "url"      : "//premiere-on-broadway/",
+      "date"     : "2018-08-23 13:04:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Abstraction as art",
+      "category" : "",
+      "tags"     : "Art",
+      "url"      : "//abstraction-as-art/",
+      "date"     : "2018-08-23 13:03:50 +0000"
+    } ,
+  
+    {
+      "title"    : "The path to self-perfection",
+      "category" : "",
+      "tags"     : "Life",
+      "url"      : "//the-path-to-self-perfection/",
+      "date"     : "2018-08-23 13:03:30 +0000"
+    } ,
+  
+    {
+      "title"    : "How to Plan a Camping Trip",
+      "category" : "",
+      "tags"     : "Trip",
+      "url"      : "//how-to-plan-a-camping-trip/",
+      "date"     : "2018-08-23 13:03:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Flower Care Guide",
+      "category" : "",
+      "tags"     : "Guide and Flowers",
+      "url"      : "//flower-care-guide/",
+      "date"     : "2018-08-23 13:02:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Welcome to Jekyll!",
+      "category" : "",
+      "tags"     : "Jekyll",
+      "url"      : "//welcome-to-jekyll/",
+      "date"     : "2018-05-29 15:05:55 +0000"
+    } 
+  
 ]
