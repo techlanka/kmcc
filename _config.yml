@@ -17,7 +17,7 @@ author-avatar: 09.jpg
 # Contact links
 facebook:  https://facebook.com/kmccmadawala # 
 twitter:   https://twitter.com/kmccmadawala # 
-instagram: https://www.instagram.com/mm_mirshad #
+instagram: https://www.instagram.com/kmccmadawala #
 
 #-------------------------------
 # Comment Section (Disqus)
@@ -31,12 +31,12 @@ instafeed: true # To enable the instafeed, use the value true. To turn off use t
 
 #-------------------------------
 # Google Analytics
-google-analytics: # Add your identifier. For example UA-99631805-1.
+google-analytics: # UA-99631805-1.
 
 
 #-------------------------------
 # Newsletter
-mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
+mailchimp: # blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
 
 
 #-------------------------------
