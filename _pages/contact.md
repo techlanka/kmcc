@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Official Contact
+title: Contact Us
 permalink: /contact/
 image: 11.jpg
 ---
