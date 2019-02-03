@@ -4,4 +4,4 @@ title: Contact Us
 permalink: /contact/
 ---
 
-### Call 081-2476393
+<center>### Call 081-2476393</center>
