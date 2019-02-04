@@ -4,7 +4,7 @@
 title: K/ Madina Central College (National School)
 description: "National School situated in Kandy district, Madawala, Sri Lanka." #
 baseurl: /
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://kmccnetwork.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 #-------------------------------
 # About Section
